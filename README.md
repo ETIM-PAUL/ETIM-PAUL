@@ -35,7 +35,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I write short stories and read tech articles.
 
-- 🌱 I’m currently learning writing smart contracts (solidity) and integrating web3.js with my frontend frameworks (vue and react)
+- 🌱 I’m currently learning writing smart contracts (solidity) and integrating smart contracts with my frontend frameworks (vue and react) using ethers.js
 
 - :mailbox:How to reach me: etimpaul22@gmail.com
 
