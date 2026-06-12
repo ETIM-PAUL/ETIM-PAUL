@@ -24,7 +24,7 @@ My work sits at the intersection of **smart contract security**, **vulnerability
 
 * :shield: I research vulnerabilities in Solidity, Rust, Move, Clarity, C++, and C codebases.
 * :mag: I participate in Web3 security contests and bug bounty triaging across platforms like Code4rena and Cantina.
-* :zap: I have found **7 High/Medium severity bugs** across Web3 security platforms.
+* :zap: I have found **High/Medium severity bugs** across Web3 security platforms.
 * :hammer_and_wrench: I build and test smart contracts using Solidity, Foundry, Hardhat, ethers.js, WAGMI, and web3React.
 * :robot: I’m interested in AI-assisted security research, audit automation, and developer tooling for smart contract analysis.
 * :writing_hand: I also explore technical content writing and enjoy breaking down complex blockchain concepts.
